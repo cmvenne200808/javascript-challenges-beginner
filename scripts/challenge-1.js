@@ -15,3 +15,7 @@ if (!output) throw "Output container not found.";
 
 //@ts-check
 // your code starts after this line
+
+const MAX_N = 10;
+
+for(let n = 0; )
